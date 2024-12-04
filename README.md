@@ -1,5 +1,6 @@
 # 🌟 NHÓM 1
-
+## 👀 Số người truy cập vào repo:
+> ![Số người xem](https://visitor-badge.laobi.icu/badge?page_id=Hua-Kieu-Lam.CC-MTPTPM_B4) 
 ## 🚀 Giới thiệu
  Đây là dự án demo của nhóm 1.
 
@@ -25,9 +26,6 @@
 1. Clone repo:
    ```bash
    git clone ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.CC-MTPTPM_B4)
-
-## 📥 Số lượng người truy cập 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hua-Kieu-Lam.CC-MTPTPM_B4)
 
 
 
