@@ -6,7 +6,6 @@
 
 # 🌟 NHÓM 1
 
-<div align="center">
 <br><p align="centre"><b> Đếm lược truy cập</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hua-Kieu-Lam}/count.svg" /></p> 
 <br>
