@@ -24,4 +24,9 @@
 ## 📥 Cách cài đặt
 1. Clone repo:
    ```bash
-   git clone https://github.com/Hua-Kieu-Lam/CC-MTPTPM_B4.git
+   git clone ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.CC-MTPTPM_B4)
+
+
+   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hua-Kieu-Lam.CC-MTPTPM_B4)
+
+
