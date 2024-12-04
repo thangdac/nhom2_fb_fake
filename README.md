@@ -32,23 +32,15 @@
    git clone ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.CC-MTPTPM_B4)
 
 
-# 🌟 Thống kê GitHub của các thành viên
 
-## 🧑‍💻 Hứa Kiều Lam's GitHub Stats
-![Hứa Kiều Lam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hua-Kieu-Lam&show_icons=true&hide=prs&count_private=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hua-Kieu-Lam&layout=compact&theme=radical)
+# 🌟 Thống Kê GitHub Của Các Thành Viên Nhóm CC-MTPTPM_B4
 
-## 🧑‍💻 Hồ Trương Ngọc Bích's GitHub Stats
-![Hồ Trương Ngọc Bích's GitHub Stats](https://github-readme-stats.vercel.app/api?username=htnbich&show_icons=true&hide=prs&count_private=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htnbich&layout=compact&theme=radical)
-
-## 🧑‍💻 Nguyễn Đắc Thắng's GitHub Stats
-![Nguyễn Đắc Thắng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndthang&show_icons=true&hide=prs&count_private=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndthang&layout=compact&theme=radical)
-
-## 🧑‍💻 Nguyễn Bình Minh's GitHub Stats
-![Nguyễn Bình Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbminh&show_icons=true&hide=prs&count_private=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbminh&layout=compact&theme=radical)
+| 🧑‍💻 Thành Viên            | 🛠️ GitHub Stats                                         | 🗣️ Ngôn Ngữ Sử Dụng                                             |
+|---------------------------|---------------------------------------------------------|------------------------------------------------------------------|
+| **Hứa Kiều Lam**           | ![Hứa Kiều Lam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hua-Kieu-Lam&show_icons=true&hide=prs&count_private=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hua-Kieu-Lam&layout=compact&theme=radical) |
+| **Hồ Trương Ngọc Bích**    | ![Hồ Trương Ngọc Bích's GitHub Stats](https://github-readme-stats.vercel.app/api?username=htnbich&show_icons=true&hide=prs&count_private=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htnbich&layout=compact&theme=radical) |
+| **Nguyễn Đắc Thắng**       | ![Nguyễn Đắc Thắng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndthang&show_icons=true&hide=prs&count_private=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndthang&layout=compact&theme=radical) |
+| **Nguyễn Bình Minh**       | ![Nguyễn Bình Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbminh&show_icons=true&hide=prs&count_private=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbminh&layout=compact&theme=radical) |
 
 
 
