@@ -26,7 +26,8 @@
    ```bash
    git clone ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.CC-MTPTPM_B4)
 
+## 📥 Số lượng người truy cập 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hua-Kieu-Lam.CC-MTPTPM_B4)
 
-   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hua-Kieu-Lam.CC-MTPTPM_B4)
 
 
