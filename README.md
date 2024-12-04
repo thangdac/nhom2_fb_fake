@@ -2,12 +2,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;Nhóm+1;Welcome!) 
 
 # 🌟 NHÓM 1
-
-<div align="center">
 <br><p align="centre"><b> Đếm lược truy cập</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hua-Kieu-Lam}/count.svg" /></p> 
 <br>
-</div>
 ## 🧑‍💻 Thành viên nhóm
 | 👤 Thành viên            | 🛠️ Nhiệm vụ                  | 📬 Liên hệ                         |
 |--------------------------|-------------------------------|------------------------------------ |
@@ -24,3 +21,10 @@
 <p>
 [![My Skills](https://skillicons.dev/icons?i=cs,git,github,visualstudio,&perline=7)](https://skillicons.dev)
 </p>
+
+<div align="center" > 
+<trong><b>Technical</b></trong>
+<p>
+[![My Skills](https://skillicons.dev/icons?i=cs,git,github,visualstudio,&perline=7)](https://skillicons.dev)
+</p>
+ </div>
