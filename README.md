@@ -1,3 +1,7 @@
+<!--Title @LXN-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;Nhóm+1;Welcome!) 
+
+
 # 🌟 NHÓM 1
 ## 👀 Số người truy cập vào repo:
 > ![Số người xem](https://visitor-badge.laobi.icu/badge?page_id=Hua-Kieu-Lam.CC-MTPTPM_B4) 
@@ -29,8 +33,6 @@
 
 
 
-<!--Title @LXN-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Vietnam;Welcome!) 
 
 
 <!--Skill And More Information--> 
