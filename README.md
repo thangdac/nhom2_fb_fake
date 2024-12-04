@@ -23,7 +23,9 @@
 
 
 ## 💻 Công nghệ sử dụng
-[![My Skills](https://skillicons.dev/icons?i=html,c#,visual studio, git, github,&perline=7)](https://skillicons.dev)
+<p>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,csharp,git,github&perline=4)](https://skillicons.dev)
+</p>
 
 ## 📥 Cách cài đặt
 1. Clone repo:
