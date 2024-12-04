@@ -1,10 +1,16 @@
 <!--Title @LXN-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;Nhóm+1;Welcome!) 
 
+
+
+
 # 🌟 NHÓM 1
+
+<div align="center">
 <br><p align="centre"><b> Đếm lược truy cập</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hua-Kieu-Lam}/count.svg" /></p> 
 <br>
+
 ## 🧑‍💻 Thành viên nhóm
 | 👤 Thành viên            | 🛠️ Nhiệm vụ                  | 📬 Liên hệ                         |
 |--------------------------|-------------------------------|------------------------------------ |
@@ -17,9 +23,9 @@
 - 🎮 Chương trình đoán số
 - 🗂 Thêm, xóa, sửa sinh viên
 - 📄 Quản lý và cập nhật thông tin sinh viên
+
 ## 💻 Công nghệ sử dụng
 <p>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,git,github,visualstudio,&perline=7)](https://skillicons.dev)
 </p>
-
