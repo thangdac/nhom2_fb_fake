@@ -18,10 +18,9 @@
 
 ## 🛠 Tính năng
 <p>
-
-[![My Skills](https://skillicons.dev/icons?i=visualStudio,c#,&perline=7)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,csharp,git,github&perline=7)](https://skillicons.dev)
 </p>
+
 
 ## 💻 Công nghệ sử dụng
 [![My Skills](https://skillicons.dev/icons?i=htmlc#,visual studio, git, github,&perline=7)](https://skillicons.dev)
