@@ -3,8 +3,10 @@
 
 
 # 🌟 NHÓM 1
-## 👀 Số người truy cập vào repo:
-> ![Số người xem](https://visitor-badge.laobi.icu/badge?page_id=Hua-Kieu-Lam.CC-MTPTPM_B4) 
+<div align="center">
+<br><p align="centre"><b> Visitors Count  </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hua-Kieu-Lam}/count.svg" /></p> 
+<br>
 ## 🚀 Giới thiệu
  Đây là dự án demo của nhóm 1.
 
@@ -35,13 +37,6 @@
 
 # 🌟 Thống Kê GitHub Của Các Thành Viên Nhóm CC-MTPTPM_B4
 
-| 🧑‍💻 Thành Viên            | 🛠️ GitHub Stats                                         | 🗣️ Ngôn Ngữ Sử Dụng                                             |
-|---------------------------|---------------------------------------------------------|------------------------------------------------------------------|
-| **Hứa Kiều Lam**           | ![Hứa Kiều Lam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hua-Kieu-Lam&show_icons=true&hide=prs&count_private=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hua-Kieu-Lam&layout=compact&theme=radical) |
-| **Hồ Trương Ngọc Bích**    | ![Hồ Trương Ngọc Bích's GitHub Stats](https://github-readme-stats.vercel.app/api?username=htnbich&show_icons=true&hide=prs&count_private=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htnbich&layout=compact&theme=radical) |
-| **Nguyễn Đắc Thắng**       | ![Nguyễn Đắc Thắng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndthang&show_icons=true&hide=prs&count_private=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndthang&layout=compact&theme=radical) |
-| **Nguyễn Bình Minh**       | ![Nguyễn Bình Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbminh&show_icons=true&hide=prs&count_private=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbminh&layout=compact&theme=radical) |
-
 
 
 <!--Skill And More Information--> 
@@ -49,10 +44,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luongxuannhat&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="LXN github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongxuannhat&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
-<div align="center">
-<br><p align="centre"><b> Visitors Count  </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuongXuanNhat}/count.svg" /></p> 
-<br>
+
 <!--Social Media-->  
 <div align="center"> 
 <a href="https://www.tiktok.com/@luongxuannhat" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
