@@ -54,7 +54,7 @@
 <trong><b>Technical</b></trong>
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,nextjs,vuejs,angular,dotnet,java,laravel,nodejs,express,c,cpp,cs,php,python,mysql,mongodb,redis,postgres,git,github,gitlab,githubactions,postman,docker,ubuntu,ps,ai,figma,bootstrap,tailwind,materialui,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,c#,&perline=7)](https://skillicons.dev)
 
 </p>
  </div>
