@@ -19,12 +19,7 @@
 - 📄 Quản lý và cập nhật thông tin sinh viên
 ## 💻 Công nghệ sử dụng
 <p>
+
 [![My Skills](https://skillicons.dev/icons?i=cs,git,github,visualstudio,&perline=7)](https://skillicons.dev)
 </p>
 
-<div align="center" > 
-<trong><b>Technical</b></trong>
-<p>
-[![My Skills](https://skillicons.dev/icons?i=cs,git,github,visualstudio,&perline=7)](https://skillicons.dev)
-</p>
- </div>
