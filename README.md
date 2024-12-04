@@ -1,6 +1,3 @@
-<!--Title @LXN-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;Nhóm+1;Welcome!) 
-
 <div align="center">
 
 # 🌟 NHÓM 1
