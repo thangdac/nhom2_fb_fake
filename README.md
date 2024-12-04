@@ -17,9 +17,11 @@
 | Nguyễn Bình Minh        | 📄 Làm file README             | ✉️ tranhlinhjessica@gmail.com      |
 
 ## 🛠 Tính năng
-- 🎮 Chương trình đoán số
-- 🗂 Thêm, xóa, sửa sinh viên
-- 📄 Quản lý và cập nhật thông tin sinh viên
+<p>
+
+[![My Skills](https://skillicons.dev/icons?i=visualStudio,c#,&perline=7)](https://skillicons.dev)
+
+</p>
 
 ## 💻 Công nghệ sử dụng
 [![My Skills](https://skillicons.dev/icons?i=htmlc#,visual studio, git, github,&perline=7)](https://skillicons.dev)
@@ -52,11 +54,7 @@
 <br>
 <div align="center" > 
 <trong><b>Technical</b></trong>
-<p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,c#,&perline=7)](https://skillicons.dev)
-
-</p>
  </div>
 
    
