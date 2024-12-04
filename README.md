@@ -7,8 +7,6 @@
 <br><p align="centre"><b> Visitors Count  </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hua-Kieu-Lam}/count.svg" /></p> 
 <br>
-## 🚀 Giới thiệu
- Đây là dự án demo của nhóm 1.
 
 ## 🧑‍💻 Thành viên nhóm
 | 👤 Thành viên            | 🛠️ Nhiệm vụ                  | 📬 Liên hệ                        |
@@ -24,9 +22,7 @@
 - 📄 Quản lý và cập nhật thông tin sinh viên
 
 ## 💻 Công nghệ sử dụng
-- 🌐 **Git**: Quản lý mã nguồn
-- 🖥 **Visual Studio**: Môi trường phát triển tích hợp (IDE)
-- 💻 **C#**: Ngôn ngữ lập trình chính
+[![My Skills](https://skillicons.dev/icons?i=htmlc#,visual studio, git, github,&perline=7)](https://skillicons.dev)
 
 ## 📥 Cách cài đặt
 1. Clone repo:
