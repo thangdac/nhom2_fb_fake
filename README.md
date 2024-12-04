@@ -24,7 +24,9 @@
 
 ## 💻 Công nghệ sử dụng
 <p>
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,csharp,git,github&perline=4)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,git,github,visualstudio,&perline=7)](https://skillicons.dev)
+
 </p>
 
 ## 📥 Cách cài đặt
@@ -36,6 +38,8 @@
 
 # 🌟 Thống Kê GitHub Của Các Thành Viên Nhóm CC-MTPTPM_B4
 
+<!--Title @LXN-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Vietnam;Welcome!) 
 
 
 <!--Skill And More Information--> 
@@ -43,7 +47,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luongxuannhat&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="LXN github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongxuannhat&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
-
+<div align="center">
+<br><p align="centre"><b> Visitors Count  </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuongXuanNhat}/count.svg" /></p> 
+<br>
 <!--Social Media-->  
 <div align="center"> 
 <a href="https://www.tiktok.com/@luongxuannhat" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
@@ -55,7 +62,11 @@
 <br>
 <div align="center" > 
 <trong><b>Technical</b></trong>
+<p>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,nextjs,vuejs,angular,dotnet,java,laravel,nodejs,express,c,cpp,cs,php,python,mysql,mongodb,redis,postgres,git,github,gitlab,githubactions,postman,docker,ubuntu,ps,ai,figma,bootstrap,tailwind,materialui,&perline=7)](https://skillicons.dev)
+
+</p>
  </div>
 
    
