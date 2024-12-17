@@ -1,6 +1,9 @@
 <div align="center">
 
-# 🌟 NHÓM 1
+# 🌟 NHÓM 4
+-Nguyễn Đắc Thắng
+
+  
 
 <br><p align="centre"><b> Đếm lược truy cập</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hua-Kieu-Lam}/count.svg" /></p> 
